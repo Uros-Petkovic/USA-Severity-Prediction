@@ -1,5 +1,4 @@
 # USA-Severity-Prediction
-
 This projects shows multiple approach to solving problem of USA Severity Prediction with Machine Learning algorithms. 
 
 Used algorithms are Logistic Regression, SVM, KNN, Random Forest and Gradient Boosting.
